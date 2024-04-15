@@ -22,4 +22,5 @@ b. On the basis of the results in part (a), which of the three additional predic
 c. Using the F* test statistic, test whether or not the variable determined to be best in part (b) is helpful in the regression model when X1 and X2 are included in the model; use alpha = .Ol. State the alternatives, decision rule, and conclusion. Would the F* test statistics for the other two potential predictor variables be as large as the one here? Discuss
 d. Compute three additional coefficients of partial determination: R^2_(Y,X3,X4|X1,X2) , R^2_(Y,X3,X5|X1,X2) , and R^2_(Y,X4,X5|X1,X2). Which pair of predictors is relatively more important than other pairs? Use the F test to find out whether adding the best pair to the model is helpful given that X1, X2 are already included.
 
-Part III: Discussion. Discuss about your results from a practical standpoint. What particular parts of the course material do you find most relevant to your analysis in this project (try to be as specific as possible)? Any suggestions on how to improve the linear regression models?
+### Part III: Discussion. 
+Discuss about your results from a practical standpoint. What particular parts of the course material do you find most relevant to your analysis in this project (try to be as specific as possible)? Any suggestions on how to improve the linear regression models?
